@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Homepage [<img align="left" alt="https://jinyuliu1130.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jinyuliu1130.github.io/)
 
-Google Scholar [<img align="left" alt="https://scholar.google.com/citations?hl=zh-CN&user=oPK92GMAAAAJ" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />](https://scholar.google.com/citations?hl=zh-CN&user=oPK92GMAAAAJ)
+[<img align="left" alt="https://jinyuliu1130.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jinyuliu1130.github.io/)  [![Website](https://img.shields.io/website?label=jinyuliu1130.github.io&style=for-the-badge&up_message=up&url=https://jinyuliu1130.github.io/)](https://jinyuliu1130.github.io/)
 
+[<img align="left" alt="https://scholar.google.com/citations?hl=zh-CN&user=oPK92GMAAAAJ" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />](https://scholar.google.com/citations?hl=zh-CN&user=oPK92GMAAAAJ)  [![Website](https://img.shields.io/website?label=google scholar&style=for-the-badge&up_message=up&url=[https://jinyuliu1130.github.io](https://scholar.google.com/citations?hl=zh-CN&user=oPK92GMAAAAJ)/)]([https://jinyuliu1130.github.io](https://scholar.google.com/citations?hl=zh-CN&user=oPK92GMAAAAJ)/)
 
 
 <!--
