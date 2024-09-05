@@ -1,7 +1,6 @@
-## Hi there 👋
 
 
-[<img align="left" alt="https://jinyuliu1130.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jinyuliu1130.github.io/)  [![Website](https://img.shields.io/website?label=jinyuliu1130.github.io&style=for-the-badge&up_message=up&url=https://jinyuliu1130.github.io/)](https://jinyuliu1130.github.io/)
+[![Website](https://img.shields.io/website?label=jinyuliu1130.github.io&style=for-the-badge&url=https://jinyuliu1130.github.io/)](https://jinyuliu1130.github.io/)
 
 
 <!--
