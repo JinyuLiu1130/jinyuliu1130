@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Homepage [<img align="left" alt="https://jinyuliu1130.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jinyuliu1130.github.io/)
+
+Google Scholar [<img align="left" alt="https://scholar.google.com/citations?hl=zh-CN&user=oPK92GMAAAAJ" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />](https://scholar.google.com/citations?hl=zh-CN&user=oPK92GMAAAAJ)
+
+
+
 <!--
 **JinyuLiu1130/jinyuliu1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
