@@ -1,7 +1,7 @@
 
 [![Website](https://img.shields.io/website?label=jinyuliu1130.github.io&style=for-the-badge&url=https://jinyuliu1130.github.io/)](https://jinyuliu1130.github.io/)
 
-- Ph.D. student at the Fudan University.
+- 🏫 Ph.D. student at the Fudan University.
 
 <!--
 **JinyuLiu1130/jinyuliu1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
